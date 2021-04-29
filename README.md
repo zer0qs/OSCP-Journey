@@ -56,4 +56,5 @@
 [https://github.com/tranquac/Linux-Privilege-Escalation](https://github.com/tranquac/Linux-Privilege-Escalation)                  
 [https://github.com/tranquac/OSCP-PWK-Notes-Public](https://github.com/tranquac/OSCP-PWK-Notes-Public)                                
 [https://burmat.gitbook.io/security/](https://burmat.gitbook.io/security/)                                                                
-[https://guif.re/linuxeop#Post%20exploitation](https://guif.re/linuxeop#Post%20exploitation)
+[https://guif.re/linuxeop#Post%20exploitation](https://guif.re/linuxeop#Post%20exploitation)                                                                   
+#### Cảm ơn các bạn đã đọc đến đây!
