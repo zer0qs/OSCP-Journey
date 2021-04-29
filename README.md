@@ -45,9 +45,9 @@
 ## Lời kết
 - Hành trình của tôi là như vậy đó. Suốt 3 tháng cố gắng, cuối cùng tôi đã được đền đáp bằng kết quả xứng đáng. 3 tháng đó quả là một quãng thời gian tôi đã vượt quá giới hạn của bản thân: ôn thi OSCP, học và kiểm tra trên trường, tôi đã đi làm cả ngày (bao gồm cả làm công việc ở công ty, ôn thi) và tối trở lại trường để học trên. Thời gian biểu của tôi trong 3 tháng đó như một vòng lặp : ngày đi làm, tối về đi học, khoảng 9h15 về đến nhà, làm việc hoặc làm labs oscp đến khoảng 12h-1h đi ngủ và hôm sau lại lặp lại. Đó quả là quãng thời gian đáng nhớ cho sự cố gắng của tôi!
 - Hi vọng đây không phải bài viết cuối cùng, và tôi sẽ không dừng lại ở đó, sẽ cố gắng cho những đang dự định, còn rất nhiều thứ cần học hỏi ở phía trước.
-- Cuối cùng tôi gửi lời cảm ơn những người bạn, đồng nghiệp đã giúp đỡ tôi, cùng tôi cố gắng trong suốt quãng thời gian đó: aishe, catmandx, minhnq22, ewind!
+- Cuối cùng tôi gửi lời cảm ơn những người bạn, đồng nghiệp đã giúp đỡ tôi, cùng tôi cố gắng trong suốt quãng thời gian đó: aishe, catmandx, minhnq22, ewind! 
+                                                                                                                                           
 ##ĐÂY LÀ MỘT SỐ NGUỒN CỰC KÌ HỮU ÍCH TÔI ĐÃ THAM KHẢO VÀ HỌC TẬP CHO KÌ THI:
-
 [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)                                                
 [https://guide.offsecnewbie.com/](https://guide.offsecnewbie.com/)                                                                        
 [https://sushant747.gitbooks.io/total-oscp-guide/content/](https://sushant747.gitbooks.io/total-oscp-guide/content/)
