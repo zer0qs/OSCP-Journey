@@ -1,7 +1,7 @@
 # OSCP-Journey
 ### 28-4-2021 / 21 Year Old
 - Hôm nay tôi ngồi đây để viết những dòng suy nghĩ này khi tôi vừa nhận được email thông báo tôi đã vượt qua kì thi OSCP của offensive security.Đây chỉ là một bài viết đơn giản để tôi có thể chia sẻ những suy nghĩ,cảm nhận và hành trình tôi đạt đượt chứng chỉ OSCP trong lần thi đầu tiền . Đó là cả một quá trình gian nan, cố gắng hết mình của tôi trong 3 tháng.
-![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/pass.PNG?token=AMJEFMAX3XI2OSCZ5QGHPKLARIDAQ)
+![](https://github.com/tranquac/OSCP-Journey/blob/main/pass.png)
 ## OSCP là gì?
 - OSCP là một chương trình chứng chỉ mà tập trung vào những kỹ năng tấn công và kiểm thử bảo mật. Nó bao gồm 2 phần: một bài thi pentest trong vòng 23h45p. Kết quả thi sau đó phải được viết thành báo cáo bằng Tiếng Anh, thẩm định trong 7 ngày trước khi chính thức công bố kết quả.
 - Chứng chỉ OSCP nằm trong TOP 5 chứng chỉ thâm nhập và kiểm thử đáng mơ ước cho các chuyên gia bảo mật và là một trong những chứng chỉ đòi hỏiphần thi thực hành. Tại kỳ thi, các kỹ sư phải thể hiện khả năng nghiên cứu hệ thống mạng, phát hiện các lỗ hổng hay điểm yếu về bảo mật trong hệ thống ứng dụng từ đó giúp các chuyên gia đánh giá được mức độ rủi ro cũng như xây dựng các phương pháp ứng phó và khắc phục sự cố.Có thể nói, đánh giá quan trọng nhất trong kỳ thi chính là tư duy nhạy bén và kỹ năng thực thi dưới áp lực lớn.
@@ -25,8 +25,8 @@
 - Tôi rành riêng một mục để nói về điều này vì thực sự nó rất quan trọng. Tôi khuyên bạn nên note cẩn thận hết lại tất cả những gì bạn học được, nghiên cứu được trong suốt quá trình học tập, thực hành. Nó thực sự giúp bạn nhớ lâu hơn và bạn sẽ biết tìm lại khi gặp một bài toán tương tự hoặc quên chẳng hạn.
 - Không chỉ lý thuyết bạn hãy note lại toàn bộ quá trình bạn làm lab. Hãy ghi rõ quá trình bạn làm, cách giải quyết mỗi khi gặp lỗi,...Nó sẽ rất hữu ích đó.
 - Tôi có cả một kho về những điều đó:
-![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/Capture.PNG?token=AMJEFMEEJG6ZWYES6RZBVFTARBMXO)
-![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/Capture2.PNG?token=AMJEFMEMBNXGZXLZQGGZRW3ARBNJS)
+![](https://github.com/tranquac/OSCP-Journey/blob/main/Capture.png)
+![](https://github.com/tranquac/OSCP-Journey/blob/main/Capture2.png)
 ## Kì thi
 - Tính đến thời điểm trước khi và kì thi tôi đã hoàn thành tổng cộng 53 machine trên tổng số khoảng 60 machine, phần còn lại chủ yếu là tấn công active directory vì không có trong kì thi nên tôi đã quyết định làm nó sau kì thi của mình. Và bây giờ thì sẵn sàng rồi. Bắt đầu lên thớt thôi!
 - Kì thi OSCP gồm có 5 machine trong đó có:                                                                                                                               
