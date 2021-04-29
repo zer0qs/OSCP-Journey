@@ -1,6 +1,5 @@
 # OSCP-Journey
 ### 28-4-2021 / 21 Year Old
-## Nói đầu
 - Hôm nay tôi ngồi đây để viết những dòng suy nghĩ này khi tôi vừa nhận được email thông báo tôi đã vượt qua kì thi OSCP của offensive security.Đây chỉ là một bài viết đơn giản để tôi có thể chia sẻ những suy nghĩ,cảm nhận và hành trình tôi đạt đượt chứng chỉ OSCP trong lần thi đầu tiền . Đó là cả một quá trình gian nan, cố gắng hết mình của tôi trong 3 tháng trời.
 ![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/pass.PNG?token=AMJEFMAX3XI2OSCZ5QGHPKLARIDAQ)
 ## OSCP là gì?
