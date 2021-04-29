@@ -2,7 +2,7 @@
 ### 28-4-2021 / 21 Year Old
 ## Nói đầu
 - Hôm nay tôi ngồi đây để viết những dòng suy nghĩ này khi tôi vừa nhận được email thông báo tôi đã vượt qua kì thi OSCP của offensive security.Đây chỉ là một bài viết đơn giản để tôi có thể chia sẻ những suy nghĩ,cảm nhận và hành trình tôi đạt đượt chứng chỉ OSCP trong lần thi đầu tiền . Đó là cả một quá trình gian nan, cố gắng hết mình của tôi trong 3 tháng trời.
-
+![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/pass.PNG?token=AMJEFMAX3XI2OSCZ5QGHPKLARIDAQ)
 ## OSCP là gì?
 - OSCP là một chương trình chứng chỉ mà tập trung vào những kỹ năng tấn công và kiểm thử bảo mật. Nó bao gồm 2 phần: một bài thi pentest trong vòng 23h45p. Kết quả thi sau đó phải được viết thành báo cáo bằng Tiếng Anh, thẩm định trong 7 ngày trước khi chính thức công bố kết quả.
 - Chứng chỉ OSCP nằm trong TOP 5 chứng chỉ thâm nhập và kiểm thử đáng mơ ước cho các chuyên gia bảo mật và là một trong những chứng chỉ đòi hỏiphần thi thực hành. Tại kỳ thi, các kỹ sư phải thể hiện khả năng nghiên cứu hệ thống mạng, phát hiện các lỗ hổng hay điểm yếu về bảo mật trong hệ thống ứng dụng từ đó giúp các chuyên gia đánh giá được mức độ rủi ro cũng như xây dựng các phương pháp ứng phó và khắc phục sự cố.Có thể nói, đánh giá quan trọng nhất trong kỳ thi chính là tư duy nhạy bén và kỹ năng thực thi dưới áp lực lớn.
