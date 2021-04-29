@@ -8,10 +8,9 @@
 
 ## Tại sao tôi lại đăng kí OSCP?
 - Đầu tiên là để học hỏi nâng cao kiến thức lẫn kĩ năng về kiểm thử bảo mật, hacking cộng với đó là lòng quyết tâm, niềm đam mê trong tôi. 
-- Thứ 2 là vì công việc.                                                                                   
-- Thứ 3 là tăng lương thì chúng ta không nói đến ở đây nhé :)))                                             
+- Thứ 2 là vì công việc.                                                                                                                                                          - Thứ 3 là tăng lương thì chúng ta không nói đến ở đây nhé :)))                                                                               
 ##  Giai đoạn đăng kí học và chuẩn bị
-- Để thi bạn phải trải qua khóa học PWK (PENETRATION TESTING WITH KALI LINUX), nó có 3 sự lựa chọn: 30,60 hoặc 90. Đến thời điểm hiện tại offensive đã tung ra gói mới có thời gian 1 năm với giá 2147$. Lúc đó tôi đã lựa chọn gói 90 ngày với giá 1350$.
+- Để thi bạn phải trải qua khóa học PWK (PENETRATION TESTING WITH KALI LINUX), nó có 3 sự lựa chọn: 30,60 hoặc 90 ngày. Đến thời điểm hiện tại offensive đã tung ra gói mới có thời gian 1 năm với giá 2147$. Lúc đó tôi đã lựa chọn gói 90 ngày với giá 1350$.
 - Khi đăng kí bạn sẽ nhận được những tài liệu: một sách lý thuyết 800 trang, một bộ video (kiến thức cũng tương tự nhưng không kĩ bằng sách), một gói kết nối tới VPN của họ và đây cũng chính là thứ giá trị nhất mà chúng ta có thể thực hành và rèn luyện.
 - Tôi bắt đầu đăng kí học chính thức là vào 21 tết. Khi đó gần với kì nghỉ Tết Nguyên Đán. Do ở quê Tết đến cũng khá nhiều việc, bận rộn nên trong khoảng thời gian 20 ngày đầu tôi chỉ đọc sách mà cũng không thực hành được gì mấy. Qua đợt nghỉ Tết và đọc hòm hòm sách lý thuyết tôi bắt đầu thực hành. Tôi bắt đầu với 2 máy alpha và beta và tôi khuyên các bạn cũng nên bắt đầu từ 2 máy này. Vì đây là 2 máy duy nhất offensive hướng dẫn đầy đủ để chúng ta có thể tham khảo. 
 - Tôi khuyên thật sự trước khi đăng kí bạn cũng nên chuẩn bị tinh thần cũng như kiến thức phù hơp, nếu không bạn sẽ bị ngợp, choáng với lượng kiến thức mà bạn sẽ được tiếp xúc. Và tôi nghĩ đây không phải là khóa học dành cho người mới bắt đầu (theo quan điểm của tôi).
@@ -30,21 +29,18 @@
 ![](https://raw.githubusercontent.com/tranquac/OSCP-EXAM/main/POC_report/Capture2.PNG?token=AMJEFMEMBNXGZXLZQGGZRW3ARBNJS)
 ## Kì thi
 - Tính đến thời điểm trước khi và kì thi tôi đã hoàn thành tổng cộng 53 machine trên tổng số khoảng 60 machine, phần còn lại chủ yếu là tấn công active directory vì không có trong kì thi nên tôi đã quyết định làm nó sau kì thi của mình. Và bây giờ thì sẵn sàng rồi. Bắt đầu lên thớt thôi!
-- Kì thi OSCP gồm có 5 machine trong đó có:
-1 máy bof 25 điểm.
-1 máy 25 điểm.
-2 máy 20 điểm.
-1 máy 10 điểm.
+- Kì thi OSCP gồm có 5 machine trong đó có:                                                                                                                               
+1 máy buffer overflow 25 điểm.                                                                                                                                                 
+1 máy 25 điểm.                                                                                                                                                                    2 máy 20 điểm.                                                                                                                                                                    1 máy 10 điểm.                                                                                                                           
 - Bạn làm sao làm được 70 điểm là đủ điểm pass. Nhưng sau đó bạn phải làm report về quá trình mình làm gửi cho offensive trong 24h sau đó.
-- Tôi đã đặt lịch thi vào 11h ngày 25/4/2021. Do mạng phòng trọ không ổn định nên tôi đã lên công ty thi. Và may mắn trong ngày hôm đó tôi không gặp vấn đề về mạng cũng như lỗi kĩ thuật.
-  10h45->11h30 -> thời gian xác thực trước khi thi.                                                                                                          
+- Tôi đã đặt lịch thi vào 11h ngày 25/4/2021. Do mạng phòng trọ không ổn định nên tôi đã lên công ty thi. Và may mắn trong ngày hôm đó tôi không gặp vấn đề về mạng cũng như lỗi kĩ thuật.                                                                                                                                                                  
+  10h45->11h30 -> thời gian xác thực trước khi thi.                                                                                                                      
   11h30->~7h tối tôi đã hoàn thành 4 machine. Được tổng cộng 80đ.
-  7h   ->7h30 tôi có một bát bún bò làm ấm lòng.                                                                                                             
-  7h30 ->12h tôi cố gắng khai thác máy cuối cùng nhưng không có kết quả gì. Nó quá khó nhai.
-  12h  ->3h thời gian để ngủ.                                                                                                                                 
-  3h   -> đánh răng, rửa mặt, vệ sinh cá nhân.                                                                                                             
+  7h   ->7h30 tôi có một bát bún bò làm ấm lòng.                                                                                                                  
+  7h30 ->12h tôi cố gắng khai thác máy cuối cùng nhưng không có kết quả gì. Nó quá khó nhai.                                                                              
+  12h  ->3h thời gian để ngủ.                                                                                                                                                       3h   -> đánh răng, rửa mặt, vệ sinh cá nhân.                                                                                                             
   3h30 -> 7h sáng tôi tiếp tục cho máy cuối cùng nhưng vẫn không nhận lại được kết quả gì mặc dù tôi đã biết chính xác CVE cho ứng dụng trên máy đó.              
-  7h   ->7h30 kiểm tra lại và kết thúc cho kì thì.                                                                                                       
+  7h   ->7h30 kiểm tra lại và kết thúc cho kì thì.                                                                                                          
 - Tôi đã kết thúc sớm khoảng 4 tiếng. Vì tôi đã mất khoảng 10h cho máy đó nhưng không nhận lại được gì. Tôi quyết định ra về và viết report cho bài thi của mình.
 
 ## Lời kết
