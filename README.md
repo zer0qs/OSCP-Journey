@@ -50,11 +50,11 @@
 ## ĐÂY LÀ MỘT SỐ NGUỒN CỰC KÌ HỮU ÍCH TÔI ĐÃ THAM KHẢO VÀ HỌC TẬP CHO KÌ THI:
 [https://github.com/swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)                                                
 [https://guide.offsecnewbie.com/](https://guide.offsecnewbie.com/)                                                                        
-[https://sushant747.gitbooks.io/total-oscp-guide/content/](https://sushant747.gitbooks.io/total-oscp-guide/content/)
-[https://cd6629.gitbook.io/ctfwriteups/oscp-cheatsheet-unfinished](https://cd6629.gitbook.io/ctfwriteups/oscp-cheatsheet-unfinished)
-[https://blog.adithyanak.com/](https://blog.adithyanak.com/)                                                                                 
-[https://github.com/tranquac/Linux-Privilege-Escalation](https://github.com/tranquac/Linux-Privilege-Escalation)                  
-[https://github.com/tranquac/OSCP-PWK-Notes-Public](https://github.com/tranquac/OSCP-PWK-Notes-Public)                                
-[https://burmat.gitbook.io/security/](https://burmat.gitbook.io/security/)                                                                
+[https://sushant747.gitbooks.io/total-oscp-guide/content/](https://sushant747.gitbooks.io/total-oscp-guide/content/)                                      
+[https://cd6629.gitbook.io/ctfwriteups/oscp-cheatsheet-unfinished](https://cd6629.gitbook.io/ctfwriteups/oscp-cheatsheet-unfinished)                                  
+[https://blog.adithyanak.com/](https://blog.adithyanak.com/)                                                                                                                     
+[https://github.com/tranquac/Linux-Privilege-Escalation](https://github.com/tranquac/Linux-Privilege-Escalation)                                             
+[https://github.com/tranquac/OSCP-PWK-Notes-Public](https://github.com/tranquac/OSCP-PWK-Notes-Public)                                                                  
+[https://burmat.gitbook.io/security/](https://burmat.gitbook.io/security/)                                                                                                                      
 [https://guif.re/linuxeop#Post%20exploitation](https://guif.re/linuxeop#Post%20exploitation)                                                                   
 #### Cảm ơn các bạn đã đọc đến đây!
